@@ -43,8 +43,8 @@ After training the logistic regression model, we evaluate its performance using 
 ## **Usage**
 
 To run the code for this project, follow these steps:
-1.Clone the repository or download the file and Unzip the file
-2.Then just run the `main.py` File 
+1. Clone the repository or download the file and Unzip the file.
+2. Then just run the `main.py` File. 
 
 ## **Results**
 
