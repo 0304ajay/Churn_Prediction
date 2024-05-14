@@ -34,7 +34,7 @@ The dataset used for this project contains information about telecom customers, 
 - `TotalCharges`: Customer's total charges
 - `Churn`: Whether the customer churned (yes or no)
 
-## **Methodology**
+## **Methodology** 
 
 We use the scikit-learn library in Python to train a logistic regression model on the provided dataset. Logistic regression is a popular algorithm for binary classification tasks, making it suitable for predicting customer churn (a binary outcome).
 
