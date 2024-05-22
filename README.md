@@ -48,7 +48,7 @@ To run the code for this project, follow these steps:
 
 ## **Results**
 
-The results of the logistic regression model are as follows:
+The results of the logistic regression model are as  follows:
 
 - Accuracy: 82%
 
