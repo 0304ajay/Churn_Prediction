@@ -1,6 +1,6 @@
 # **Telecom Customer Churn Prediction**
 
-This project focuses on predicting customer churn in the telecom industry using machine learning techniques. The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction).
+This project focuses on predicting customer churn in the telecom industry using machine learning  techniques. The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction).
 
 ## **Overview**
 
