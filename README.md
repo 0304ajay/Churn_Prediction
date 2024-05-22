@@ -20,7 +20,7 @@ The dataset used for this project contains information about telecom customers, 
 - `tenure`: Number of months the customer has been with the company
 - `PhoneService`: Whether the customer has phone service (yes or no)
 - `MultipleLines`: Whether the customer has multiple lines (yes, no, or no phone service)
-- `InternetService`: Customer's internet service type (DSL, fiber optic, or no)
+- `InternetService`: Customer's  internet service type (DSL, fiber optic, or no)
 - `OnlineSecurity`: Whether the customer has online security (yes, no, or no internet service)
 - `OnlineBackup`: Whether the customer has online backup (yes, no, or no internet service)
 - `DeviceProtection`: Whether the customer has device protection (yes, no, or no internet service)
